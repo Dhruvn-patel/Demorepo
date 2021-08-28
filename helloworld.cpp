@@ -3,5 +3,6 @@ int main(int argc, char const *argv[])
 {
     
     std::cout<<"hello world !";
+    std::cout<<"hi ";
     return 0;
 }
